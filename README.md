@@ -1,0 +1,1 @@
+# my-expo-qrcode-scanner
